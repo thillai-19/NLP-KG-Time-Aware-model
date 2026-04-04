@@ -1,6 +1,6 @@
 """Chronological Knowledge Graph Infusion for Time-Aware NLU."""
 
-__author__ = "Thillai D."
+__author__ = "Thillai Deva Dharshan M"
 
 # -----------------------------
 # Imports
